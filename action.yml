@@ -1,4 +1,5 @@
-name: update-pr-descriptions
+name: update-pr-descriptions-using-pr-numbers
+descriptions: Update your PR descpritons with pr numbers
 author: Colin Chung
 branding:
   icon: 'paperclip'
