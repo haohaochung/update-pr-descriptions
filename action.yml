@@ -1,5 +1,5 @@
 name: update-pr-descriptions-using-pr-numbers
-descriptions: Update your PR descpritons with pr numbers
+descriptions: Generate pr numbers between head branch and master a specific branch to update the pr descriptions
 author: Colin Chung
 branding:
   icon: 'paperclip'
