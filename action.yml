@@ -1,4 +1,4 @@
-name: update-pr-descriptions-using-pr-numbers
+name: Update PR Description by using PR Numbers
 description: Generate pr numbers between head and master branch
 author: Colin Chung
 branding:
