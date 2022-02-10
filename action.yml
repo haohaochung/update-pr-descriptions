@@ -1,5 +1,5 @@
 name: update-pr-descriptions-using-pr-numbers
-descriptions: Generate pr numbers between head and master branch
+description: Generate pr numbers between head and master branch
 author: Colin Chung
 branding:
   icon: 'paperclip'
